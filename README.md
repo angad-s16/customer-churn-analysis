@@ -116,7 +116,7 @@ A built-in scenario model in the `KPIs` sheet estimates the revenue impact of re
 
 | File | Description |
 |---|---|
-| `customer_churn.xlsx` | Full Excel workbook with raw data, clean model, KPIs, pivots, and insights |
+| `Customer Churn Analysis.xlsx` | Full Excel workbook with raw data, clean model, KPIs, pivots, and insights |
 
 ---
 
